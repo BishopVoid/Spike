@@ -1,2 +1,2 @@
 # Spike
-Šahovski program
+Šahovski program u razvoju.
